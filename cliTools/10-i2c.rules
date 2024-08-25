@@ -1,0 +1,1 @@
+SUBSYSTEM=="i2c-dev", GROUP="i2c", RUN+="/bin/sh -c 'chmod 666 /dev/i2c*'", MODE="0666"

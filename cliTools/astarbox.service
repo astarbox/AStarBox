@@ -1,0 +1,11 @@
+[Unit]
+Description=AStarBox boot config
+After=sysinit.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/usr/local/bin/astarbox_config
+
+[Install]
+WantedBy=basic.target

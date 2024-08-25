@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/usr/local/bin/AStarBoxUI.py
+Name=AStarBox
+Icon=AStarBoxIcon
+Categories=Education
