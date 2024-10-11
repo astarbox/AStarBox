@@ -39,7 +39,7 @@
 #include <vector>
 #include <sstream>
 #include <thread>
-
+#include <cstdint>
 // Register Definitions
 
 #define MODE1 0x00            //Mode  register  1

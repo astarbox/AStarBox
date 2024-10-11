@@ -3,6 +3,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <sys/ioctl.h>
+#include <cstdint>
 
 #define ADC_ADDR0 0x68
 #define ADC_ADDR2 0x6a

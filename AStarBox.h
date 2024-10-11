@@ -18,6 +18,7 @@
 #include <thread>
 #include <ctime>
 #include <cmath>
+#include <cstdint>
 
 #include "mcp3421.h"
 #include "PCA9685.h"
